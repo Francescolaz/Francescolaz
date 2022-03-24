@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍💼 Data Scientist at Golder Associates
-<!-- - 🌱 I’m currently learning AWS and XGBost -->
-- 💬 Ask me about anything, I am happy to help;
 
 --- 
 **Languages and Tools:**  
