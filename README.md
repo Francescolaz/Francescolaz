@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💼 Data Scientist at Golder Associates
-
 --- 
 **Languages and Tools:**  
 
