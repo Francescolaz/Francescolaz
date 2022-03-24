@@ -7,7 +7,7 @@ My name is Francesco
 
 🤵 Working as Data Scientist at Golder Associates <img src="https://www.canadianconsultingengineer.com/wp-content/uploads/2020/12/wsp_golder-e1607018680376.jpg" width="80px"> </img>  <br>
 
-Graduating in Data Science and Economics at the University of Milan and Graduated in Economics, Markets and Institutions at the Alma Mater - University of Bologna. 
+🧑‍🎓 Graduating in Data Science and Economics at the University of Milan and Graduated in Economics, Markets and Institutions at the Alma Mater - University of Bologna. 
 
 <br>
 
