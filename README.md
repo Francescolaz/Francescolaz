@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💼 Data Scientist at FastWeb
+- 🧑‍💼 Data Scientist at Golder Associates
 <!-- - 🌱 I’m currently learning AWS and XGBost -->
 - 💬 Ask me about anything, I am happy to help;
 
