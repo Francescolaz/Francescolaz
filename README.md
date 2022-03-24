@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning AWS and XGBost -->
 - 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me: 
-    - Website: [ierardiandrea.com](https://ierardiandrea.com)
-    - Gmail : <a href="MAILTO:andreierardi@gmail.com">andreierardi@gmail.com</a> 
-
 --- 
 **Languages and Tools:**  
 
@@ -41,4 +37,4 @@ Here are some ideas to get you started:
 
 <summary>📈 My GitHub Stats</summary>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreaierardi&show_icons=true&theme=gotham" alt="andreaierardi" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Francescolaz&show_icons=true&theme=gotham" alt="Francescolaz" />
